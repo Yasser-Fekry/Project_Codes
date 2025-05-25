@@ -78,7 +78,7 @@ namespace FinalTermProject
         public static class DB
         {
             //Data Source=DESKTOP-8LAI86N;Initial Catalog=GymDB;Integrated Security=True;Trust Server Certificate=True
-            public static string connectionString = "Data Source=DESKTOP-8LAI86N;Initial Catalog=GymDB;Integrated Security=True";
+            public static string connectionString = "Data Source= Null;Initial Catalog=GymDB;Integrated Security=True";
         }
 
 
